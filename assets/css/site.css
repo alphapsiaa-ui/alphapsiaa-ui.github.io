@@ -294,16 +294,6 @@ strong, b { font-weight: 700; }
 	.scroll-cue { display: none; }
 }
 
-/* ---------- Values marquee ---------- */
-.marquee { background: var(--gold); color: var(--maroon-950); overflow: hidden; border-block: 3px solid var(--maroon-950); }
-.marquee-track { display: flex; width: max-content; animation: marquee 40s linear infinite; }
-.marquee-track span {
-	display: inline-flex; align-items: center; gap: 28px; padding: 14px 14px;
-	font-family: var(--font-display); font-size: clamp(1.2rem, 2.1vw, 1.6rem); font-weight: 700; letter-spacing: .16em; text-transform: uppercase; white-space: nowrap;
-}
-.marquee-track span i { font-size: .7em; color: var(--maroon); }
-@keyframes marquee { to { transform: translateX(-50%); } }
-
 /* ==========================================================================
    Page hero (interior pages)
    ========================================================================== */
