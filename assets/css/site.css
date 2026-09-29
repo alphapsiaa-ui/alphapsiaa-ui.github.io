@@ -477,8 +477,9 @@ a.card { text-decoration: none; color: inherit; display: block; }
 .member .chip { margin-bottom: 4px; }
 .member.rep::before { background: linear-gradient(155deg, var(--navy-700) 0%, var(--navy) 100%); }
 
-.founders { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; list-style: none; padding: 0; margin: 0; }
-.founders li { background: #fff; border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 16px 18px; border-top: 3px solid var(--gold); }
+.founders { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 14px; list-style: none; padding: 0; margin: 0; }
+.founders li { background: #fff; border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 16px 18px; border-top: 3px solid var(--gold); display: flex; align-items: center; gap: 16px; }
+.founders img { width: 72px; height: 72px; border-radius: 50%; object-fit: cover; flex-shrink: 0; border: 3px solid #fff; box-shadow: 0 0 0 2px var(--gold); }
 .founders b { display: block; font-family: var(--font-display); font-weight: 700; font-size: 1.35rem; color: var(--maroon-900); text-transform: uppercase; line-height: 1.1; }
 .founders span { font-size: .9rem; color: var(--muted); }
 
