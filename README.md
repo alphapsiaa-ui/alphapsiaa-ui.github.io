@@ -71,6 +71,5 @@ columns are deliberately never published, and expelled members are left off.
 - Founding date is **June 9, 2025** (confirmed; matches the bylaws).
 - Dino asked for less of himself in the general photos. He appears where he's being honored
   (Leadership, Honors), not in the home hero/welcome images.
-- Board cards say "Board of Directors" because individual titles haven't been provided yet. Each
-  card has an HTML comment showing where to add `<p class="role">President</p>` etc.
-- No online donation link exists yet.
+- Board cards show each director's title and email (from the AΨAA email of Oct 5, 2026).
+- No online donation link on the site yet (Dino sent one by email; waiting for it).
