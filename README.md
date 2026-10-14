@@ -27,7 +27,7 @@ University. Built 2026-09-28 for Dino (Dionicio Cardenas) from the AΨAA website
 | `join.html` | Why join, eligibility, $15 dues, benefits, 3 steps to join |
 | `contact.html` | mailto form (opens the visitor's email app) + social links |
 | `resources.html` | Forms, bylaws PDF, 1947 petition PDF, fraternity links |
-| `donate.html` | "Online giving coming soon" + the 10×10 Life Membership fundraiser (Givebutter) |
+| `donate.html` | Alpha Psi Legacy Fund link + the 10×10 Life Membership fundraiser (Givebutter) |
 | `404.html` | Not-found page |
 
 The **header and footer are copied into every page**. When you change the nav or footer,
@@ -64,6 +64,7 @@ columns are deliberately never published, and expelled members are left off.
 - 2026–27 membership form:
   https://docs.google.com/forms/d/e/1FAIpQLSdZcljibCvj4TSsIaUbOGq02IVUL2E_RgC2-wnDgS-2Am0X7Q/viewform
 - KKΨAA renew: https://www.kkpsiaa.org/renew-your-membership
+- Alpha Psi Legacy Fund (donations + $15 dues): https://givebutter.com/the-alpha-psi-legacy-fund-fdwiye
 - 10×10 fundraiser: https://givebutter.com/10x10-ayaa
 
 ## Content decisions to keep
@@ -72,4 +73,4 @@ columns are deliberately never published, and expelled members are left off.
 - Dino asked for less of himself in the general photos. He appears where he's being honored
   (Leadership, Honors), not in the home hero/welcome images.
 - Board cards show each director's title and email (from the AΨAA email of Oct 5, 2026).
-- No online donation link on the site yet (Dino sent one by email; waiting for it).
+- Online giving and the $15 membership contribution both go to the Alpha Psi Legacy Fund (Givebutter), linked on Donate and Join.
